@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/address_book_management_system.dir/main.cpp.o  -o address_book_management_system.exe -Wl,--out-implib,libaddress_book_management_system.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
