@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/worker_manager_system.dir/main.cpp.o  -o worker_manager_system.exe -Wl,--out-implib,libworker_manager_system.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
