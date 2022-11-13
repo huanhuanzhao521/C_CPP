@@ -1,0 +1,7 @@
+﻿  vector容器-vector预留空间.cpp
+E:\PracticeTestC++\vector容器\vector容器\vector容器-vector预留空间.cpp(16,16): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+  vector容器.vcxproj -> E:\PracticeTestC++\vector容器\x64\Debug\vector容器.exe

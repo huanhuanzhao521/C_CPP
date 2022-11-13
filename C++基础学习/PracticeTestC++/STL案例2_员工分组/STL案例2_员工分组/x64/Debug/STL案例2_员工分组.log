@@ -1,0 +1,5 @@
+﻿  STL-员工分组.cpp
+E:\zhh\PracticeTestC++\STL案例2_员工分组\STL案例2_员工分组\STL-员工分组.cpp(54,33): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\zhh\PracticeTestC++\STL案例2_员工分组\STL案例2_员工分组\STL-员工分组.cpp(62,34): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\zhh\PracticeTestC++\STL案例2_员工分组\STL案例2_员工分组\STL-员工分组.cpp(70,33): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  STL案例2_员工分组.vcxproj -> E:\zhh\PracticeTestC++\STL案例2_员工分组\x64\Debug\STL案例2_员工分组.exe

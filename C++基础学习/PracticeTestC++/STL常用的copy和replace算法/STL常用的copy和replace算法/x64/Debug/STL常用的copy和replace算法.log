@@ -1,0 +1,12 @@
+﻿  swap.cpp
+E:\zhh\PracticeTestC++\STL常用的copy和replace算法\STL常用的copy和replace算法\swap.cpp(29,17): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+E:\zhh\PracticeTestC++\STL常用的copy和replace算法\STL常用的copy和replace算法\swap.cpp(30,23): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+  STL常用的copy和replace算法.vcxproj -> E:\zhh\PracticeTestC++\STL常用的copy和replace算法\x64\Debug\STL常用的copy和replace算法.exe

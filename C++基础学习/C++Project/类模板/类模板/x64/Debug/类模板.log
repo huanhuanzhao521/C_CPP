@@ -1,0 +1,10 @@
+﻿  类模板案例.cpp
+H:\work2022\C++Project\类模板\类模板\类模板案例.cpp(22,22): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+H:\work2022\C++Project\类模板\类模板\类模板案例.cpp(32,25): warning C4267: “参数”: 从“size_t”转换到“const T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+H:\work2022\C++Project\类模板\类模板\类模板案例.cpp(70,37): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+H:\work2022\C++Project\类模板\类模板\类模板案例.cpp(70,71): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  类模板.vcxproj -> H:\work2022\C++Project\类模板\x64\Debug\类模板.exe

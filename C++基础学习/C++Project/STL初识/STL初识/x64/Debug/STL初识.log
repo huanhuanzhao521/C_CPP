@@ -1,0 +1,27 @@
+﻿  vector容器嵌套容器.cpp
+H:\work2022\C++Project\STL初识\STL初识\vector容器嵌套容器.cpp(18,27): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+H:\work2022\C++Project\STL初识\STL初识\vector容器嵌套容器.cpp(19,27): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+H:\work2022\C++Project\STL初识\STL初识\vector容器嵌套容器.cpp(20,27): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+H:\work2022\C++Project\STL初识\STL初识\vector容器嵌套容器.cpp(21,27): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+H:\work2022\C++Project\STL初识\STL初识\vector容器嵌套容器.cpp(22,27): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+  STL初识.vcxproj -> H:\work2022\C++Project\STL初识\x64\Debug\STL初识.exe

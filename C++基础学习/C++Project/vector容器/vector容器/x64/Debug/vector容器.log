@@ -1,0 +1,7 @@
+﻿  vector容器-构造函数.cpp
+H:\work2022\C++Project\vector容器\vector容器\vector容器-构造函数.cpp(18,23): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+  vector容器.vcxproj -> H:\work2022\C++Project\vector容器\x64\Debug\vector容器.exe

@@ -1,0 +1,3 @@
+﻿  string子串.cpp
+H:\work2022\C++Project\string容器\string容器\string子串.cpp(19,30): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  string容器.vcxproj -> H:\work2022\C++Project\string容器\x64\Debug\string容器.exe
